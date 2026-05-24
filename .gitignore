@@ -1,0 +1,12 @@
+# dev save state -- shouldnt ship w/ public mod
+zone_backup.txt
+Mods/MiseryGambling/zone.txt
+
+# local git backups
+.git.backup*/
+
+# windows / editor cruft
+Thumbs.db
+.DS_Store
+*.bak
+*.swp
